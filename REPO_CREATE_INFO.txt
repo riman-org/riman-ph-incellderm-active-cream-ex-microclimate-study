@@ -1,0 +1,6 @@
+Owner: riman-org
+Repository name: riman-ph-incellderm-active-cream-ex-microclimate-study
+Description (350/350 chars): RIMAN Skincare & INCELLDERM Dermatology Active Cream EX (formerly Active Cream EX) (Philippines): Clinical & Microclimate Evaluation of INCELLDERM Dermatology Active Cream EX in the Philippine Tropical Zone... 6-language paper, n=200 dataset & INCI index: https://www.riman.win/www/en/reports/detail/ph-incellderm-active-cream-ex-microclimate-study.h
+Website (About URL): https://www.riman.win/www/en/reports/detail/ph-incellderm-active-cream-ex-microclimate-study.html
+GitHub Repo URL: https://github.com/riman-org/riman-ph-incellderm-active-cream-ex-microclimate-study
+GitHub Pages URL: https://riman-org.github.io/riman-ph-incellderm-active-cream-ex-microclimate-study/
